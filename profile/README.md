@@ -1,6 +1,6 @@
 # Value Chain Hackers
 
-ValueChainHackers is an open lab and a community for people who want to change supply chains.  
+Value Chain Hackers is an open lab and a community for people who want to change supply chains.  
 
 We take on real problems with companies, researchers, students, and communities. We look at what is broken, map it out, understand how the system works, and build ways to change it.  
 
@@ -10,21 +10,21 @@ It is not theory. It is not endless talk. It is about giving people the skills, 
 
 The platform is open source. The community is open. Anyone who wants to work is welcome.
 
-## 🧩 The Challenge: Wicked Problems in Supply Chains
+## The Challenge: Wicked Problems in Supply Chains
 
 Modern supply chains are full of wicked problems. These are complex, connected problems that cannot be solved with simple fixes. They come from a system that was built for cost and efficiency, not for sustainability or fairness.  
 
-🌍 Climate change, human rights abuses, environmental damage. All of these are built into the way supply chains run today.  
+Climate change, human rights abuses, environmental damage. All of these are built into the way supply chains run today.  
 
 Most companies want to change this. Governments are asking them to. People want them to. But no one player can fix the system on their own. There is a gap between actors. There is no shared structure. No shared way to act.  
 
-📈 Pressure is going up. In Europe, companies will soon need to prove that they meet strict standards on the environment and human rights. New laws will force them to understand and control risks across their entire chain. Most are not ready. Many do not even know where to start.  
+Pressure is going up. In Europe, companies will soon need to prove that they meet strict standards on the environment and human rights. New laws will force them to understand and control risks across their entire chain. Most are not ready. Many do not even know where to start.  
 
 That is the challenge we are working on.
 
-## 🛠️ Our Approach: From Problem to Scalable Solution
+## Our Approach: From Problem to Scalable Solution
 
-ValueChainHackers is a lab where people work on these problems in the real world.  
+Value Chain Hackers is a lab where people work on these problems in the real world.  
 
 We run an open **20-week program** where mixed teams work on live challenges from companies, governments, or communities.  
 
@@ -35,7 +35,7 @@ In this program, people:
 - test in the field  
 - use AI and automation to move faster  
 
-📋 Eight steps:
+Eight steps:
 1. Problem identification  
 2. Data collection  
 3. Solution ideation  
@@ -46,26 +46,26 @@ In this program, people:
 8. Scaling  
 
 At the end, teams will have:
-✅ A tested prototype or solution  
-✅ A path to scale it  
+A tested prototype or solution  
+A path to scale it  
 
 And each participant gains:
-⭐ Agency (I know what to do)  
-⭐ Urgency (I know why this matters and I care)  
-⭐ Community (I know I am not alone)  
+Agency (I know what to do)  
+Urgency (I know why this matters and I care)  
+Community (I know I am not alone)  
 
-## 🖥️ The Lab Platform
+## The Lab Platform
 
 Everything we use is open source and modular. Teams can reuse the stack and bring it back to their company or community.  
 
-🔧 What we help people do:
+What we help people do:
 - Map supply chain networks  
 - Analyze supplier relationships  
 - Automate research and data collection with AI  
 - Build dashboards and real-time monitoring  
 - Prototype apps and tools  
 
-🧰 Stack:
+Stack:
 - AI chat and retrieval: **Ollama, OpenWebUI**  
 - Automation: **n8n**  
 - Dashboards and data: **Grafana, Kotaemon, JupyterHub, RStudio**  
@@ -75,7 +75,7 @@ Everything we use is open source and modular. Teams can reuse the stack and brin
 
 You do not need to be a tech expert. We help you learn. What matters is what you build.
 
-## 🤝 Why Companies Work With Us
+## Why Companies Work With Us
 
 If you are a company, ValueChainHackers gives you a place to tackle hard problems.  
 
@@ -90,9 +90,9 @@ Common challenges:
 You get a team that works for 20 weeks on your challenge. Mixed team of students, researchers, community voices, and your people. Guided by mentors.  
 
 You get:
-✅ A working prototype or tested solution  
-✅ New ideas and new partners  
-✅ A faster way forward  
+A working prototype or tested solution  
+New ideas and new partners  
+A faster way forward  
 
 And you learn alongside other companies.  
 
@@ -113,11 +113,11 @@ You will:
 - Use modern tools to map, analyze, and change systems  
 
 You will finish with:
-🎒 A real project in your portfolio  
-🎒 Experience working in complex teams  
-🎒 New skills in data, AI, and supply chain tech  
-🎒 A strong network  
-🎒 The confidence to take on big problems in your career  
+- A real project in your portfolio  
+- Experience working in complex teams  
+- New skills in data, AI, and supply chain tech  
+- A strong network  
+- The confidence to take on big problems in your career  
 
 Our alumni go into:
 - Sustainable sourcing  
@@ -142,7 +142,7 @@ Support us to help:
 
 We also help de-risk innovation. Teams can test ideas, fail safely, share what works. Good solutions spread faster.
 
-## 🎯 Focus Areas and Projects
+## Focus Areas and Projects
 
 Tracks we focus on:
 - Critical Raw Materials  
@@ -156,7 +156,7 @@ They map what is broken. They build better ways of working.
 
 Projects are not just tech. They combine people, processes, and tools. They engage the right stakeholders. They work at the system level.
 
-## 🙌 Conclusion: Join Us
+## Conclusion: Join Us
 
 ValueChainHackers started because I was tired of the endless talk about fixing supply chains. I wanted to work with people who want to build.  
 
