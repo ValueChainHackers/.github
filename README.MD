@@ -4,7 +4,6 @@ ValueChainHackers is an open research lab and open-source stack to help fix supp
 
 The stack is modular and privacy-first. You can run it yourself. It’s built for students, researchers, companies, and anyone trying to map, clean, and improve value chains. The goal: stop talking about fixing supply chains and actually do it.
 
----
 
 ## The problem
 
@@ -20,7 +19,6 @@ The stack is modular and privacy-first. You can run it yourself. It’s built fo
 
 There is no coordination between these actors. That’s what we aim to change.
 
----
 
 ## How we work
 
@@ -37,7 +35,6 @@ We build:
 - urgency (I care why it matters)
 - community (I’m not alone)
 
----
 
 ## What we build
 
@@ -49,7 +46,6 @@ We give you the tools to:
 - Visualize complex chains
 - Build open tools for real-world use
 
----
 
 ## What’s inside
 
@@ -66,7 +62,6 @@ We give you the tools to:
 - AI support tools
 - Templates you can use in your own research or projects
 
----
 
 ## Our tracks
 
@@ -74,7 +69,6 @@ We give you the tools to:
 - Agri-food supply chains  
 - Regulatory and compliance  
 
----
 
 ## Why we do this
 
