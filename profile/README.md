@@ -1,4 +1,4 @@
-# 🚀 ValueChainHackers
+# Value Chain Hackers
 
 ValueChainHackers is an open lab and a community for people who want to change supply chains.  
 
