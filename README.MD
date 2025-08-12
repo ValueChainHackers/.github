@@ -73,7 +73,7 @@ You will have access to an open, modular stack and hands-on support. You do not 
 - Tools. Our own self-hosted AI platform with access to most latest models.
 - Mentoring. Domain mentors for each track, methods mentors for discovery and validation, and technical mentors for data, automation, and prototyping.
 
-### for companies and organisations
+### For companies and organisations
 Pains we address
 - Lack of capacity to explore new sustainability solutions while running daily operations.
 - Uncertainty about where to start or which approach will work.
@@ -123,4 +123,54 @@ Benefits
 - Broader impact by embedding research into operational change.
 - Strong partnerships with industry and public actors.
 
+### The open lab platform
+What it enables
+- Access to up-to-date AI models for research, analysis, and creative problem-solving.
+- Guided use of AI for mapping systems, exploring options, and testing ideas.
+- Structured ideation framework to work through wicked problems and design actionable solutions.
+- Step-by-step guidance on moving from problem identification to a tested, scalable solution.
 
+## Focus areas
+
+Each cohort works on challenges from one or more of our core tracks.
+
+Critical raw materials
+From extraction to reuse, ensuring responsible sourcing, reducing dependency, and supporting circular approaches.
+
+Aagri-food supply chains
+Improving sustainability, fairness, and resilience from farm to fork and beyond.
+
+Projects run end to end across the value chain, combining technical, organisational, and stakeholder elements to create system-level change.
+
+## How to join or contribute
+Join as a builder
+Apply to take part in the next 20-week cohort before the 1/09/2025.
+You will work in a mixed team on a live supply chain challenge, guided by mentors and using our AI platform and ideation framework.
+Apply here
+
+Bring us a challenge
+If you are a company or organisation with a real supply chain problem, we can work on it with you during a cohort.
+You will get a team for 20 weeks, structured methods, and a tested prototype or solution.
+Propose a challenge
+
+Partner as academia
+If you are a researcher or academic institution, you can partner with us to ground projects in peer-reviewed work and turn tested solutions into academic insights.
+collaborate on methodology, guide data collection, and publish joint outputs.
+Express interest
+
+## Governance, openness, and license
+
+Value Chain Hackers is open source and open community.
+All methods, tools, and outputs from cohorts are shared under an open license so others can adapt and build on them.
+
+We follow a clear process to choose challenges, ensuring they are impactful, feasible within a cohort, and safe for all participants.
+Our code of conduct sets expectations for respectful, collaborative work, and applies to everyone involved.
+
+Contributions are welcome from builders, partners, and the wider community.
+You can suggest improvements, share tools, or help refine methods through our public repository.
+
+## About us
+
+Value Chain Hackers started from a frustration with endless talk about fixing supply chains and a lack of spaces where people could work on real problems together.
+We created a program where students, professionals, companies, and academics collaborate to design and test practical solutions in just 20 weeks.
+Our goal is to make system-level change tangible, repeatable, and open, so more people can act on the challenges they care about.
