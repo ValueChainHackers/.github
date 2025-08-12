@@ -1,172 +1,221 @@
-# 🚀 ValueChainHackers
+# Value Chain Hackers
 
-ValueChainHackers is an open lab and a community for people who want to change supply chains.  
+## Table of contents
+1. [Quick start: join the next cohort](#1-quick-start-join-the-next-cohort)  
+2. [What is Value Chain Hackers](#2-what-is-value-chain-hackers)  
+3. [Why join?](#3-why-join)  
+   - [As a builder](#31-as-a-builder)  
+   - [For companies and organisations](#32-for-companies-and-organisations)  
+   - [For academia](#33-for-academia)  
+4. [How the 20-week program works](#4-how-the-20-week-program-works)  
+   - [Tools and mentoring support](#tools-and-mentoring-support)  
+5. [The open lab platform](#5-the-open-lab-platform)
+6. [Focus areas](#6-focus-areas)  
+7. [How to join or contribute](#7-how-to-join-or-contribute)  
+8. [Governance, openness, and license](#8-governance-openness-and-license)  
+9. [About us](#9-about-us)  
 
-We take on real problems with companies, researchers, students, and communities. We look at what is broken, map it out, understand how the system works, and build ways to change it.  
+---
 
-When we say hacking, we mean getting past surface level. We get into the real system. We find the points where you can move things. We work through applied learning, with real people, building prototypes, testing, using modern tools like AI and network thinking.  
+## 1. Quick start: join the next cohort
 
-It is not theory. It is not endless talk. It is about giving people the skills, the urgency, and the community they need to drive real change.  
+Value Chain Hackers is an open lab and community that turns complex supply chain sustainability-related problems into tested, scalable solutions through real-world collaboration.
 
-The platform is open source. The community is open. Anyone who wants to work is welcome.
+**Our next 20-week cohort starts soon → apply here**
 
-## 🧩 The Challenge: Wicked Problems in Supply Chains
+In each cohort, builders (students and professionals) team up with companies and researchers to:  
+- Work on real challenges in critical raw materials, agri-food, or regulatory compliance  
+- Map systems, find leverage points, and prototype solutions  
+- Test in the field and prepare a path to scale  
 
-Modern supply chains are full of wicked problems. These are complex, connected problems that cannot be solved with simple fixes. They come from a system that was built for cost and efficiency, not for sustainability or fairness.  
+**As a builder, you’ll finish with:**  
+- A tested solution in your portfolio  
+- New skills in ai, data, and supply chain tech  
+- A network and confidence to tackle big problems  
 
-🌍 Climate change, human rights abuses, environmental damage. All of these are built into the way supply chains run today.  
+**Other ways to get involved**  
+- As a company or organisation: bring us a challenge  
+- As a research team or institution: partner as academia  
 
-Most companies want to change this. Governments are asking them to. People want them to. But no one player can fix the system on their own. There is a gap between actors. There is no shared structure. No shared way to act.  
+---
 
-📈 Pressure is going up. In Europe, companies will soon need to prove that they meet strict standards on the environment and human rights. New laws will force them to understand and control risks across their entire chain. Most are not ready. Many do not even know where to start.  
+## 2. What is Value Chain Hackers
 
-That is the challenge we are working on.
+Value Chain Hackers is an open lab and community proposing a 20-week program where diverse teams tackle real supply chain sustainability-related challenges from start to finish.
 
-## 🛠️ Our Approach: From Problem to Scalable Solution
+We combine the drive of students and professionals, the lived challenges of companies, and the rigour of academic research. Together, we map what’s broken, understand the system, and design solutions that can scale.
 
-ValueChainHackers is a lab where people work on these problems in the real world.  
+Hacking here means going beyond the surface, finding leverage points, testing ideas in the real world, and learning fast.
 
-We run an open **20-week program** where mixed teams work on live challenges from companies, governments, or communities.  
+Everything we create, methods, tools, and results, is open source, so others can adapt and build on it.
 
-In this program, people:
-- work with stakeholders  
-- map out the system  
-- prototype fast  
-- test in the field  
-- use AI and automation to move faster  
+---
 
-📋 Eight steps:
-1. Problem identification  
-2. Data collection  
-3. Solution ideation  
-4. Validation  
-5. Proposal development  
-6. Community engagement  
-7. Testing  
-8. Scaling  
+## 3. Why join?
 
-At the end, teams will have:
-✅ A tested prototype or solution  
-✅ A path to scale it  
+### 3.1 As a builder
 
-And each participant gains:
-⭐ Agency (I know what to do)  
-⭐ Urgency (I know why this matters and I care)  
-⭐ Community (I know I am not alone)  
+**Why join as a builder**  
+- Build on real problems from companies and communities.  
+- Learn how supply chains work end to end.  
+- Grow skills in supply chain, your chosen track, and ai and data.  
+- Join a supportive network and learn from mentors.  
+- Finish with a tested solution in your portfolio and confidence to tackle big problems.  
 
-## 🖥️ The Lab Platform
+**What you will do:**  
+- Collaborate in a mixed team.  
+- Map the system and find leverage points.  
+- Prototype quickly and iterate.  
+- Test in the field.  
+- Prepare a path to scale.  
 
-Everything we use is open source and modular. Teams can reuse the stack and bring it back to their company or community.  
+**You will get:**  
+- A tested prototype or solution that addresses a real-world problem.  
+- The ability to identify and act on key points of change in a supply chain.  
+- A clear understanding of why the challenge matters and how to influence it.  
+- A community of peers and mentors who share your commitment to change.  
 
-🔧 What we help people do:
-- Map supply chain networks  
-- Analyze supplier relationships  
-- Automate research and data collection with AI  
-- Build dashboards and real-time monitoring  
-- Prototype apps and tools  
+---
 
-🧰 Stack:
-- AI chat and retrieval: **Ollama, OpenWebUI**  
-- Automation: **n8n**  
-- Dashboards and data: **Grafana, Kotaemon, JupyterHub, RStudio**  
-- Graph database: **Neo4j**  
-- Search and embeddings: **Qdrant, SearXNG**  
-- Routing and orchestration: **Traefik**  
+### 3.2 As companies and organisations
 
-You do not need to be a tech expert. We help you learn. What matters is what you build.
+**Pains we address**  
+- Lack of capacity to explore new sustainability solutions while running daily operations.  
+- Uncertainty about where to start or which approach will work.  
+- Difficulty aligning internal teams and external partners.  
+- High risk and cost of testing unproven ideas in production.  
 
-## 🤝 Why Companies Work With Us
+**What you get**  
+- A mixed team of motivated students, professionals, and mentors working on your challenge for 20 weeks.  
+- A structured process that takes you from problem to tested prototype.  
+- Fresh ideas informed by academic research and grounded in field testing.  
+- Access to open tools and methods you can reuse internally.  
 
-If you are a company, ValueChainHackers gives you a place to tackle hard problems.  
+**Time commitment**  
+- Flexible with time for meetings, feedback, and connecting the team to stakeholders.  
+- Support in providing data, context, and access to relevant people.  
 
-Common challenges:
-- Tracing raw materials  
-- Lowering scope 3 emissions  
-- Reducing supplier risk  
-- Complying with regulations  
-- Supporting small suppliers  
-- Innovating around circularity  
+**Deliverables**  
+- A tested prototype or solution ready for further rollout.  
+- Documented insights on your system and leverage points.  
+- A scale plan with practical next steps and partner engagement.  
 
-You get a team that works for 20 weeks on your challenge. Mixed team of students, researchers, community voices, and your people. Guided by mentors.  
+**Benefits**  
+- Faster path from idea to implementation.  
+- Reduced risk through safe, small-scale testing.  
+- Prototypes and insights that can be scaled across your operations.  
 
-You get:
-✅ A working prototype or tested solution  
-✅ New ideas and new partners  
-✅ A faster way forward  
+---
 
-And you learn alongside other companies.  
+## 3.3 As academia
 
-This helps you:
-- Stay ahead on sustainability and risk  
-- Meet ESG targets  
-- Comply with EU laws  
-- Avoid costs of scandals or supply shocks  
-- Build a story of real action for customers and investors  
+**Why partner with us**  
+- Work with live cases that bring academic theories into real-world testing.  
+- Access rich, multi-stakeholder data across different supply chain contexts.  
+- Generate publishable insights while contributing to practical change.  
+- Co-develop methodologies that can be applied and validated in practice.  
 
-## 🎓 Why Students and Professionals Join
+**What you get**  
+- A defined role in a 20-week project team, working alongside builders and companies.  
+- Opportunities to design research instruments, guide data collection, and analyse results.  
+- Visibility for your institution through applied impact and open outputs.  
+- A pathway for translating research into tools, frameworks, and policy input.  
 
-If you are a student or professional, this is your chance to work on real problems that matter.  
+**Collaboration modes**  
+- Research supervision for students or professionals in the cohort.  
+- Joint publications based on tested interventions.  
+- Methodological review and refinement for prototypes and pilots.  
 
-You will:
-- Work with companies and communities  
-- Learn how supply chains really work  
-- Use modern tools to map, analyze, and change systems  
+**Benefits**  
+- Real-world testing for theories and models.  
+- Broader impact by embedding research into operational change.  
+- Strong partnerships with industry and public actors. 
 
-You will finish with:
-🎒 A real project in your portfolio  
-🎒 Experience working in complex teams  
-🎒 New skills in data, AI, and supply chain tech  
-🎒 A strong network  
-🎒 The confidence to take on big problems in your career  
+## 4. How the 20-week program works
 
-Our alumni go into:
-- Sustainable sourcing  
-- Supply chain analytics  
-- Consulting  
-- Startups  
-- Public service  
+You will move through three phases with clear outputs and reviews while working with mentors on methods, domain questions, and tooling.
 
-## 🏛️ Why Governments and Funders Support Us
+### Phase 1. Discover  
+Goal: understand the system, the stakeholders, and where change is possible.  
+Outputs: a scoped problem statement, a system map, a shortlist of leverage points, and a discovery brief.  
 
-Governments and public funders want to move faster on supply chain sustainability. They know new ideas are needed. They know better coordination is needed.  
+### Phase 2. Build  
+Goal: design, prototype, and validate a solution with real users.  
+Outputs: working prototype, test plan, validation results, and a plan to harden or pivot.  
 
-ValueChainHackers gives them a way to make this happen.  
+### Phase 3. Scale  
+Goal: prepare adoption and scale inside the organisation or ecosystem.  
+Outputs: field-tested solution, implementation roadmap, and a scale and governance plan.  
 
-Support us to help:
-- Build solutions that serve public goals  
-- Mobilize private sector action  
-- Develop compliance tools and frameworks  
-- Grow a skilled community of change agents  
-- Create open source outputs  
-- Support innovation in critical areas  
+---
 
-We also help de-risk innovation. Teams can test ideas, fail safely, share what works. Good solutions spread faster.
+### Tools and mentoring support
 
-## 🎯 Focus Areas and Projects
+You will have access to an open, modular stack and hands-on support. You do not need prior expertise with these tools.  
+- **Capabilities**: System and network mapping, research, supply chain management, sustainability.  
+- **Tools**: Our own self-hosted AI platform with access to most latest models.  
+- **Mentoring**: Domain mentors for each track, methods mentors for discovery and validation, and technical mentors for data, automation, and prototyping.  
 
-Tracks we focus on:
-- Critical Raw Materials  
-- Agri-Food Supply Chains  
-- Regulatory and Compliance  
+---
 
-In each track, teams work through the full value chain:
-From extraction or farm, through processing and transport, all the way to product and end-of-life.  
+## 5. The open lab platform
 
-They map what is broken. They build better ways of working.  
+**What it enables**  
+- Access to up-to-date AI models for research, analysis, and creative problem-solving.  
+- Guided use of AI for mapping systems, exploring options, and testing ideas.  
+- Structured ideation framework to work through wicked problems and design actionable solutions.  
+- Step-by-step guidance on moving from problem identification to a tested, scalable solution.  
 
-Projects are not just tech. They combine people, processes, and tools. They engage the right stakeholders. They work at the system level.
+---
 
-## 🙌 Conclusion: Join Us
+## 6. Focus areas
 
-ValueChainHackers started because I was tired of the endless talk about fixing supply chains. I wanted to work with people who want to build.  
+Each cohort works on challenges from one or more of our core tracks.  
 
-In 20 weeks, with the right team and support, we can take a big problem and make a real dent in it. We can build tools. We can help people change how things work.  
+**Critical raw materials**  
+From extraction to reuse, ensuring responsible sourcing, reducing dependency, and supporting circular approaches.  
 
-But we need more people to do this work.  
+**Agri-food supply chains**  
+Improving sustainability, fairness, and resilience from farm to fork and beyond.  
 
-If you are a company with a real challenge, join us.  
-If you are a student or professional who wants to build, join us.  
-If you are a public partner or funder who wants to support real work, join us.  
+Projects run end to end across the value chain, combining technical, organisational, and stakeholder elements to create system-level change.  
 
-We know how these systems work. We know they can be changed.  
-We are here to do that work. You are welcome.
+---
+
+## 7. How to join or contribute
+
+**Join as a builder**  
+Apply to take part in the next 20-week cohort before the 1/09/2025.  
+You will work in a mixed team on a live supply chain challenge, guided by mentors and using our AI platform and ideation framework.  
+Apply here  
+
+**Bring us a challenge**  
+If you are a company or organisation with a real supply chain problem, we can work on it with you during a cohort.  
+You will get a team for 20 weeks, structured methods, and a tested prototype or solution.  
+Propose a challenge  
+
+**Partner as academia**  
+If you are a researcher or academic institution, you can partner with us to ground projects in peer-reviewed work and turn tested solutions into academic insights.  
+Collaborate on methodology, guide data collection, and publish joint outputs.  
+Express interest  
+
+---
+
+## 8. Governance, openness, and license
+
+Value Chain Hackers is open source and open community.  
+All methods, tools, and outputs from cohorts are shared under an open license so others can adapt and build on them.  
+
+We follow a clear process to choose challenges, ensuring they are impactful, feasible within a cohort, and safe for all participants.  
+Our code of conduct sets expectations for respectful, collaborative work, and applies to everyone involved.  
+
+Contributions are welcome from builders, partners, and the wider community.  
+You can suggest improvements, share tools, or help refine methods through our public repository.  
+
+---
+
+## 9. About us
+
+Value Chain Hackers started from a frustration with endless talk about fixing supply chains and a lack of spaces where people could work on real problems together.  
+We created a program where students, professionals, companies, and academics collaborate to design and test practical solutions in just 20 weeks.  
+Our goal is to make system-level change tangible, repeatable, and open, so more people can act on the challenges they care about.  
