@@ -5,15 +5,15 @@
 2. [What is Value Chain Hackers](#2-what-is-value-chain-hackers)  
 3. [Why join?](#3-why-join)  
    - [As a builder](#31-as-a-builder)  
+   - [For companies and organisations](#32-for-companies-and-organisations)  
+   - [For academia](#33-for-academia)  
 4. [How the 20-week program works](#4-how-the-20-week-program-works)  
    - [Tools and mentoring support](#tools-and-mentoring-support)  
-5. [For companies and organisations](#5-for-companies-and-organisations)  
-6. [For academia](#6-for-academia)  
-7. [The open lab platform](#7-the-open-lab-platform)  
-8. [Focus areas](#8-focus-areas)  
-9. [How to join or contribute](#9-how-to-join-or-contribute)  
-10. [Governance, openness, and license](#10-governance-openness-and-license)  
-11. [About us](#11-about-us)  
+5. [The open lab platform](#5-the-open-lab-platform)
+6. [Focus areas](#6-focus-areas)  
+7. [How to join or contribute](#7-how-to-join-or-contribute)  
+8. [Governance, openness, and license](#8-governance-openness-and-license)  
+9. [About us](#9-about-us)  
 
 ---
 
@@ -77,34 +77,7 @@ Everything we create, methods, tools, and results, is open source, so others can
 
 ---
 
-## 4. How the 20-week program works
-
-You will move through three phases with clear outputs and reviews while working with mentors on methods, domain questions, and tooling.
-
-### Phase 1. Discover  
-Goal: understand the system, the stakeholders, and where change is possible.  
-Outputs: a scoped problem statement, a system map, a shortlist of leverage points, and a discovery brief.  
-
-### Phase 2. Build  
-Goal: design, prototype, and validate a solution with real users.  
-Outputs: working prototype, test plan, validation results, and a plan to harden or pivot.  
-
-### Phase 3. Scale  
-Goal: prepare adoption and scale inside the organisation or ecosystem.  
-Outputs: field-tested solution, implementation roadmap, and a scale and governance plan.  
-
----
-
-### Tools and mentoring support
-
-You will have access to an open, modular stack and hands-on support. You do not need prior expertise with these tools.  
-- **Capabilities**: System and network mapping, research, supply chain management, sustainability.  
-- **Tools**: Our own self-hosted AI platform with access to most latest models.  
-- **Mentoring**: Domain mentors for each track, methods mentors for discovery and validation, and technical mentors for data, automation, and prototyping.  
-
----
-
-## 5. For companies and organisations
+### 3.2 As companies and organisations
 
 **Pains we address**  
 - Lack of capacity to explore new sustainability solutions while running daily operations.  
@@ -134,7 +107,7 @@ You will have access to an open, modular stack and hands-on support. You do not 
 
 ---
 
-## 6. For academia
+## 3.3 As academia
 
 **Why partner with us**  
 - Work with live cases that bring academic theories into real-world testing.  
@@ -156,11 +129,36 @@ You will have access to an open, modular stack and hands-on support. You do not 
 **Benefits**  
 - Real-world testing for theories and models.  
 - Broader impact by embedding research into operational change.  
-- Strong partnerships with industry and public actors.  
+- Strong partnerships with industry and public actors. 
+
+## 4. How the 20-week program works
+
+You will move through three phases with clear outputs and reviews while working with mentors on methods, domain questions, and tooling.
+
+### Phase 1. Discover  
+Goal: understand the system, the stakeholders, and where change is possible.  
+Outputs: a scoped problem statement, a system map, a shortlist of leverage points, and a discovery brief.  
+
+### Phase 2. Build  
+Goal: design, prototype, and validate a solution with real users.  
+Outputs: working prototype, test plan, validation results, and a plan to harden or pivot.  
+
+### Phase 3. Scale  
+Goal: prepare adoption and scale inside the organisation or ecosystem.  
+Outputs: field-tested solution, implementation roadmap, and a scale and governance plan.  
 
 ---
 
-## 7. The open lab platform
+### Tools and mentoring support
+
+You will have access to an open, modular stack and hands-on support. You do not need prior expertise with these tools.  
+- **Capabilities**: System and network mapping, research, supply chain management, sustainability.  
+- **Tools**: Our own self-hosted AI platform with access to most latest models.  
+- **Mentoring**: Domain mentors for each track, methods mentors for discovery and validation, and technical mentors for data, automation, and prototyping.  
+
+---
+
+## 5. The open lab platform
 
 **What it enables**  
 - Access to up-to-date AI models for research, analysis, and creative problem-solving.  
@@ -170,7 +168,7 @@ You will have access to an open, modular stack and hands-on support. You do not 
 
 ---
 
-## 8. Focus areas
+## 6. Focus areas
 
 Each cohort works on challenges from one or more of our core tracks.  
 
@@ -184,7 +182,7 @@ Projects run end to end across the value chain, combining technical, organisatio
 
 ---
 
-## 9. How to join or contribute
+## 7. How to join or contribute
 
 **Join as a builder**  
 Apply to take part in the next 20-week cohort before the 1/09/2025.  
@@ -203,7 +201,7 @@ Express interest
 
 ---
 
-## 10. Governance, openness, and license
+## 8. Governance, openness, and license
 
 Value Chain Hackers is open source and open community.  
 All methods, tools, and outputs from cohorts are shared under an open license so others can adapt and build on them.  
@@ -216,7 +214,7 @@ You can suggest improvements, share tools, or help refine methods through our pu
 
 ---
 
-## 11. About us
+## 9. About us
 
 Value Chain Hackers started from a frustration with endless talk about fixing supply chains and a lack of spaces where people could work on real problems together.  
 We created a program where students, professionals, companies, and academics collaborate to design and test practical solutions in just 20 weeks.  
