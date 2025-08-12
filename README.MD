@@ -32,32 +32,22 @@ Everything we create, methods, tools, and results, is open source, so others can
 
 ## Why join? 
 ### As a builder
-why join as a builder
+Why join as a builder
+- Build on real problems from companies and communities.
+- Learn how supply chains work end to end.
+- Grow skills in supply chain, your chosen track, and ai and data.
+- Join a supportive network and learn from mentors.
+- Finish with a tested solution in your portfolio and confidence to tackle big problems.
 
-you will build on real problems from companies and communities.
-you will learn how supply chains work end to end.
-you will grow skills in supply chain, your chosen track, and ai and data.
-you will join a supportive network and learn from mentors.
-you will finish with a tested solution in your portfolio and confidence to tackle big problems.
+What you will do:
+- Collaborate in a mixed team.
+- Map the system and find leverage points.
+- Prototype quickly and iterate.
+- Test in the field.
+- Pepare a path to scale.
 
-what you will do:
-
-    collaborate in a mixed team.
-
-    map the system and find leverage points.
-
-    prototype quickly and iterate.
-
-    test in the field.
-
-    prepare a path to scale.
-
-you’ll get:
-
-    a tested prototype or solution that addresses a real-world problem.
-
-    the ability to identify and act on key points of change in a supply chain.
-
-    a clear understanding of why the challenge matters and how to influence it.
-
-    a community of peers and mentors who share your commitment to change.
+You will get:
+- A tested prototype or solution that addresses a real-world problem.
+- The ability to identify and act on key points of change in a supply chain.
+- A clear understanding of why the challenge matters and how to influence it.
+- A community of peers and mentors who share your commitment to change.
